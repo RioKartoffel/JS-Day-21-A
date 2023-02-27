@@ -7,4 +7,6 @@ The HTML code sets up the basic structure of the webpage with a div element that
 
 The CSS code defines the styles for the "kinetic" element, which creates a spinning animation that looks like a loading spinner. The ::before and ::after pseudo-elements are used to create two triangles that rotate around the center of the element, giving the illusion of a spinning wheel. The @keyframes rule is used to define the animations for the two triangles.
 
+ The JavaScript file is included at the bottom of the HTML file using the script tag, but since it's empty, it doesn't affect the behavior of the page.
+
 Overall, the code creates a simple but visually appealing kinetic loader animation that can be used as a loading spinner on a webpage.
